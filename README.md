@@ -1,4 +1,4 @@
-# HR-sales-Analytics
+# HR-Presence-Analytics
 # Power BI Attendance Dashboard
 
 ## Overview
